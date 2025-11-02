@@ -1,0 +1,14 @@
+PubMed search:
+(("home care services"[Mesh] OR "home-based care" OR "hospital at home" OR "community geriatric care" OR "home health nursing")
+AND (elderly OR older adults OR geriatric)
+AND (India OR "South Asia" OR LMIC)
+AND (cost OR "cost-effectiveness" OR "economic evaluation" OR HTA OR "budget impact"))
+OR
+(("long-term care" OR "institutional care" OR "nursing home")
+AND (India)
+AND (cost OR financing OR PM-JAY OR "health insurance"))
+
+Grey literature:
+- NPHCE (National Programme for Health Care of the Elderly) guidelines
+- PM-JAY / NHA documents on long-term care / packages
+- State pilot projects on home health / geriatric outreach
