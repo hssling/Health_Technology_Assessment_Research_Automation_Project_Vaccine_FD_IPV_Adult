@@ -1,0 +1,20 @@
+{
+  "project": "hta_project_10_amr_poct_stewardship",
+  "timestamp": "2025-11-02T15:20:02",
+  "model_stdout": "Empirical \u2013 antibiotics used: 700.0 AMR cases: 50.0 cost: 1320000.0\nPOCT+AMS \u2013 antibiotics used: 400.0 AMR cases: 35.0 cost: 1135000.0\nIncremental cost: -185000.0\nAntibiotics avoided: 300.0\nAMR infections averted: 15.0\nICER (INR per antibiotic avoided): -616.6666666666666\nICER (INR per AMR infection averted): -12333.333333333334\n",
+  "log": [
+    "=== Processing project: hta_project_10_amr_poct_stewardship ===",
+    "Protocol: loaded.",
+    "Search strings: loaded.",
+    "Literature search: starting...",
+    "Literature search: completed, extracted 5 data points.",
+    "Data processing: starting...",
+    "Data processing: completed, filled 5 rows.",
+    "R: executed.",
+    "R stderr:\n\u00e2\u201d\u20ac\u00e2\u201d\u20ac Attaching core tidyverse packages \u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac tidyverse 2.0.0 \u00e2\u201d\u20ac\u00e2\u201d\u20ac\n\u00e2\u0153\u201d dplyr     1.1.4     \u00e2\u0153\u201d readr     2.1.5\n\u00e2\u0153\u201d forcats   1.0.0     \u00e2\u0153\u201d stringr   1.5.2\n\u00e2\u0153\u201d ggplot2   4.0.0     \u00e2\u0153\u201d tibble    3.3.0\n\u00e2\u0153\u201d lubridate 1.9.4     \u00e2\u0153\u201d tidyr     1.3.1\n\u00e2\u0153\u201d purrr     1.1.0     \n\u00e2\u201d\u20ac\u00e2\u201d\u20ac Conflicts \u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac\u00e2\u201d\u20ac tidyverse_conflicts() \u00e2\u201d\u20ac\u00e2\u201d\u20ac\n\u00e2\u0153\u2013 dplyr::filter() masks stats::filter()\n\u00e2\u0153\u2013 dplyr::lag()    masks stats::lag()\n\u00e2\u201e\u00b9 Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\n",
+    "Model: executed 04_amr_poct_model.py",
+    "Model stdout:\nEmpirical \u2013 antibiotics used: 700.0 AMR cases: 50.0 cost: 1320000.0\nPOCT+AMS \u2013 antibiotics used: 400.0 AMR cases: 35.0 cost: 1135000.0\nIncremental cost: -185000.0\nAntibiotics avoided: 300.0\nAMR infections averted: 15.0\nICER (INR per antibiotic avoided): -616.6666666666666\nICER (INR per AMR infection averted): -12333.333333333334\n",
+    "Manuscript generation: starting...",
+    "Manuscript generation: completed."
+  ]
+}

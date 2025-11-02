@@ -1,0 +1,1 @@
+study_id,year,country,setting,poct_type,sensitivity,specificity,baseline_antibiotic_use_rate,antibiotic_use_rate_after_poct,amr_infection_rate_base,amr_infection_rate_intervention,test_cost_inr,training_cost_inr,antibiotic_cost_inr,complication_cost_inr,notes

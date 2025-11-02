@@ -1,0 +1,11 @@
+PubMed search:
+(("point-of-care testing"[Mesh] OR "rapid diagnostic tests" OR CRP OR procalcitonin OR PCT OR "rapid viral tests")
+AND ("antimicrobial stewardship" OR "antibiotic use" OR "antimicrobial resistance")
+AND (India OR LMIC)
+AND (cost OR "cost-effectiveness" OR "health technology assessment" OR HTA OR "economic evaluation"))
+AND ("2005/01/01"[Date - Publication] : "3000"[Date - Publication])
+
+Grey literature:
+- ICMR AMR policy papers
+- WHO GLASS India reports
+- NHM operational guidelines
